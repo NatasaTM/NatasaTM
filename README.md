@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer with a backend soul</h3>
 
 <p align="center">
-Backend-focused engineer with strong experience in Spring Boot,  
+Backend-focused developer with strong experience in Spring Boot,  
 authentication & authorization (Spring Security, Keycloak),  
 and building reliable, production-oriented systems.
 </p>
@@ -17,46 +17,128 @@ and building reliable, production-oriented systems.
 - 🔍 Curious, persistent, detail-oriented  
 - 📚 Constantly learning and improving  
 
-I love turning ideas into real products — digging into complex logic,  
+I love turning ideas into real products - digging into complex logic,  
 troubleshooting tricky issues, and polishing details from database design to user experience.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧠 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+<div align="center">
 
-### 🔐 Auth / Identity
-![Keycloak](https://img.shields.io/badge/Keycloak-2C2C2C?style=for-the-badge&logo=keycloak&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+### Backend & Core
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="48" height="48" alt="Spring Boot" />
+<br>Spring Boot
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Framework" />
+<br>Spring
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Security" />
+<br>Spring Security
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
+<br>Hibernate
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/keycloak/2C2C2C" width="48" height="48" alt="Keycloak" />
+<br>Keycloak
+</td>
+</tr>
+</table>
 
-### 🧪 Testing
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-1A1A1A?style=for-the-badge&logo=docker&logoColor=white)
+### Frontend
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+<br>Vue.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br>CSS
+</td>
+</tr>
+</table>
 
-### 🌐 Frontend
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### Databases
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="48" height="48" alt="MariaDB" />
+<br>MariaDB
+</td>
+</tr>
+</table>
 
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+### Testing & DevOps
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" width="48" height="48" alt="JUnit" />
+<br>JUnit
+</td>
+<td align="center" width="96">
+<img src="https://avatars.githubusercontent.com/u/6035166?s=200&v=4" width="48" height="48" alt="Mockito" />
+<br>Mockito
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/flyway/CC0200" width="48" height="48" alt="Flyway" />
+<br>Flyway
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+</tr>
+</table>
 
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+</div>
 
 ---
 
@@ -64,36 +146,57 @@ troubleshooting tricky issues, and polishing details from database design to use
 
 ### 🔐 springboot-keycloak-bff
 Spring Boot 3 BFF with Keycloak & JWT authentication  
-➡️ https://github.com/NatasaTM/springboot-keycloak-bff
+➡️ https://github.com/NatasaTM/springboot-keycloak-bff  
+- Keycloak integration with Spring Security  
+- JWT-based authentication & authorization  
+- Clean BFF architecture pattern  
 
+---
 
 ### 🌐 nextauth-keycloak-demo
 Next.js + Keycloak secure authentication demo  
-➡️ https://github.com/NatasaTM/nextauth-keycloak-demo
-
-
-### 💃 DanceNowPortal
-End-to-end competition management platform (backend, frontend, database, auth, voting system)  
-➡️ https://github.com/NatasaTM/DanceNowPortal
-
-
-### 📸 Field-Ready Event Photo Sales System
-Offline-first photo gallery & ordering system for live events (LAN gallery, cart & orders, printing workflow, Drive delivery, admin dashboard)  
-➡️ https://natasatm.netlify.app/projects/field-ready-event-photo-sales-system
-
+➡️ https://github.com/NatasaTM/nextauth-keycloak-demo  
+- NextAuth.js + Keycloak integration  
+- Secure session handling  
+- Modern frontend auth flow  
 
 ---
 
+### 💃 DanceNowPortal
+End-to-end competition management platform  
+➡️ https://github.com/NatasaTM/DanceNowPortal  
+- Offline-first voting with IndexedDB  
+- Real-time updates via SSE  
+- Multi-stage competition support  
+- Automatic score aggregation & ranking  
+
+---
+
+### 📸 Field-Ready Event Photo Sales System
+Offline-first photo gallery & ordering system for live events  
+➡️ https://natasatm.netlify.app/projects/field-ready-event-photo-sales-system  
+- LAN gallery with automatic refresh (SSE)  
+- Cart & order workflow  
+- Printing & file delivery pipeline  
+- Admin dashboard & pricing management  
+
+---
 
 ## 📫 Connect With Me
 
-- 🌐 [Personal website](https://natasatm.netlify.app)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/natasa-todorov-markovic-91172952/)
+<div align="center">
 
- 
-  
+[![Website](https://img.shields.io/badge/🌐_Website-0A0A0A?style=for-the-badge)](https://natasatm.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natasa-todorov-markovic-91172952/)
+
+</div>
 
 ---
 
+<div align="center">
+
 ⭐ Always interested in building meaningful products and improving as an engineer.
+
+</div>
+
 
